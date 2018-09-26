@@ -1,0 +1,30 @@
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.csprojAssemblyReference.cache
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.Form1.resources
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.Properties.Resources.resources
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.csproj.GenerateResource.cache
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.csproj.CoreCompileInputs.cache
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\bin\Debug\Task1JulainReid.exe.config
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\bin\Debug\Task1JulainReid.exe
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\bin\Debug\Task1JulainReid.pdb
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.exe
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.pdb
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\bin\Debug\Task1JulainReid.exe.config
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\bin\Debug\Task1JulainReid.exe
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\bin\Debug\Task1JulainReid.pdb
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\obj\Debug\Task1JulainReid.csprojAssemblyReference.cache
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\obj\Debug\Task1JulainReid.Form1.resources
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\obj\Debug\Task1JulainReid.Properties.Resources.resources
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\obj\Debug\Task1JulainReid.csproj.GenerateResource.cache
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\obj\Debug\Task1JulainReid.csproj.CoreCompileInputs.cache
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\obj\Debug\Task1JulainReid.exe
+C:\Users\ireid\Desktop\GADE_Task1 Julian Reid\GADE_Task1\Task1JulainReid.17296005\Task1JulainReid\obj\Debug\Task1JulainReid.pdb
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\obj\Debug\Task1JulianReid.csprojAssemblyReference.cache
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\obj\Debug\Task1JulainReid.Form1.resources
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\obj\Debug\Task1JulainReid.Properties.Resources.resources
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\obj\Debug\Task1JulianReid.csproj.GenerateResource.cache
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\obj\Debug\Task1JulianReid.csproj.CoreCompileInputs.cache
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\bin\Debug\Task1JulainReid.exe.config
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\bin\Debug\Task1JulainReid.exe
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\bin\Debug\Task1JulainReid.pdb
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\obj\Debug\Task1JulainReid.exe
+C:\Users\ireid\Desktop\JulianReid17296005\GADE TASK 3\Task 2\Task1JulianReid\obj\Debug\Task1JulainReid.pdb
