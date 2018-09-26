@@ -1,0 +1,10 @@
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.csprojAssemblyReference.cache
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.Form1.resources
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.Properties.Resources.resources
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.csproj.GenerateResource.cache
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.csproj.CoreCompileInputs.cache
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\bin\Debug\Task1JulainReid.exe.config
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\bin\Debug\Task1JulainReid.exe
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\bin\Debug\Task1JulainReid.pdb
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.exe
+C:\Users\ireid\source\repos\Task1JulainReid\Task1JulainReid\obj\Debug\Task1JulainReid.pdb
