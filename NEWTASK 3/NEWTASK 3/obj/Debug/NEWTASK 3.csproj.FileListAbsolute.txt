@@ -1,0 +1,20 @@
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\bin\Debug\NEWTASK 3.exe.config
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\bin\Debug\NEWTASK 3.exe
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\bin\Debug\NEWTASK 3.pdb
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.csprojAssemblyReference.cache
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK_3.Form1.resources
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK_3.Properties.Resources.resources
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.csproj.GenerateResource.cache
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.csproj.CoreCompileInputs.cache
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.exe
+C:\Users\ireid\source\repos\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.pdb
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\bin\Debug\NEWTASK 3.exe.config
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\bin\Debug\NEWTASK 3.exe
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\bin\Debug\NEWTASK 3.pdb
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.csprojAssemblyReference.cache
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK_3.Form1.resources
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK_3.Properties.Resources.resources
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.csproj.GenerateResource.cache
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.csproj.CoreCompileInputs.cache
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.exe
+C:\Users\ireid\Desktop\NEWTASK 3\NEWTASK 3\obj\Debug\NEWTASK 3.pdb
